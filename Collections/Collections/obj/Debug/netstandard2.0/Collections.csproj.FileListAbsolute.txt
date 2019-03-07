@@ -1,0 +1,9 @@
+/Users/davidfesteban/Projects/Collections/Collections/obj/Debug/netstandard2.0/Collections.csprojAssemblyReference.cache
+/Users/davidfesteban/Projects/Collections/Collections/obj/Debug/netstandard2.0/Collections.csproj.CoreCompileInputs.cache
+/Users/davidfesteban/Projects/Collections/Collections/obj/Debug/netstandard2.0/Collections.AssemblyInfoInputs.cache
+/Users/davidfesteban/Projects/Collections/Collections/obj/Debug/netstandard2.0/Collections.AssemblyInfo.cs
+/Users/davidfesteban/Projects/Collections/Collections/bin/Debug/netstandard2.0/Collections.deps.json
+/Users/davidfesteban/Projects/Collections/Collections/bin/Debug/netstandard2.0/Collections.dll
+/Users/davidfesteban/Projects/Collections/Collections/bin/Debug/netstandard2.0/Collections.pdb
+/Users/davidfesteban/Projects/Collections/Collections/obj/Debug/netstandard2.0/Collections.dll
+/Users/davidfesteban/Projects/Collections/Collections/obj/Debug/netstandard2.0/Collections.pdb
